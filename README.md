@@ -18,3 +18,4 @@
 - HTML
 - CSS
 - JS
+- Swiper
